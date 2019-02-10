@@ -17,3 +17,10 @@ In the incongruent words condition, the words displayed are color words
 whose names do not match the colors in which they are printed: for example PURPLE , ORANGE . 
 In each case, we measure the time it takes to name the ink colors in equally-sized lists. 
 Each participant will go through and record a time from each condition.
+
+## Installation
+
+* pandas
+* numpy
+* matplotlib.pyplot 
+* stats
